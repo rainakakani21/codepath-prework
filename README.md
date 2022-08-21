@@ -1,16 +1,15 @@
 ## Button
 
 ### App Description
-`TODO://` This app has three simple buttons and one text label:
-            - The "Change Color" button changes the text label color from white to orange
-            - The "End Session" button changes the text label to say "Goodbye"
-            - The "reset" button resets the text label to say "Hello World!" in white 
+This app has three simple buttons and one text label:
+    - The "Change Color" button changes the text label color from white to orange
+    - The "End Session" button changes the text label to say "Goodbye"
+    - The "reset" button resets the text label to say "Hello World!" in white 
+
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
+<img src="https://i.imgur.com/dkSlJmh.gif" width=200><br>
 
 
 ### Required User Stories
